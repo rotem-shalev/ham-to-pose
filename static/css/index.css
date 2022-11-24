@@ -135,5 +135,6 @@ body {
   font-size: smaller;
 }
 
-
-
+iframe {
+    border: 0;
+}
