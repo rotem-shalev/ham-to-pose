@@ -113,7 +113,7 @@ body {
 .results-carousel {
   overflow: hidden;
   margin: auto;
-  width: 75%;
+  width: 100%;
 }
 
 .results-carousel .item {
@@ -125,6 +125,10 @@ body {
 
 .results-carousel video {
   margin: 0;
+}
+
+.sent-vid {
+height: 300px;
 }
 
 .slider-pagination .slider-page {
